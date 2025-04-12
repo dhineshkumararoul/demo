@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-11T22:50:24 IST" name="Suite" finished-at="2025-04-11T22:52:32 IST" duration-ms="127825">
+    <groups>
+    </groups>
+    <test started-at="2025-04-11T22:50:24 IST" name="Test" finished-at="2025-04-11T22:51:17 IST" duration-ms="52909">
+      <class name="Testcases.Errorvalidation">
+        <test-method signature="train()[pri:0, instance:Testcases.Errorvalidation@359df09a]" started-at="2025-04-11T22:50:24 IST" name="train" finished-at="2025-04-11T22:50:58 IST" duration-ms="33928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- train -->
+        <test-method signature="train1()[pri:0, instance:Testcases.Errorvalidation@359df09a]" started-at="2025-04-11T22:50:58 IST" name="train1" finished-at="2025-04-11T22:51:17 IST" duration-ms="18914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- train1 -->
+      </class> <!-- Testcases.Errorvalidation -->
+    </test> <!-- Test -->
+    <test started-at="2025-04-11T22:51:17 IST" name="Validation" finished-at="2025-04-11T22:52:32 IST" duration-ms="74190">
+      <class name="Testcases.Main">
+        <test-method signature="train()[pri:0, instance:Testcases.Main@4b520ea8]" started-at="2025-04-11T22:51:17 IST" name="train" finished-at="2025-04-11T22:52:32 IST" duration-ms="74186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- train -->
+      </class> <!-- Testcases.Main -->
+    </test> <!-- Validation -->
+  </suite> <!-- Suite -->
+</testng-results>
