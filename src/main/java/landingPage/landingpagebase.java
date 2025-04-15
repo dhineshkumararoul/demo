@@ -57,7 +57,7 @@ public class landingpagebase  {
 	@FindBy(xpath = "//input[@class='ng-tns-c58-10 ui-inputtext ui-widget ui-state-default ui-corner-all ng-star-inserted']")
 	WebElement ticket;
 
-	@FindBy(xpath = "//a[normalize-space()='11']")
+	@FindBy(xpath = "//a[normalize-space()='15']")
 	WebElement booking;
 
 	@FindBy(xpath = "//span[@class='ng-tns-c65-11 ui-dropdown-label ui-inputtext ui-corner-all ng-star-inserted']")
